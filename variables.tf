@@ -6,5 +6,4 @@
 variable "function_name" {
     type = string
     description = "Function name for Lamda"
-
 }
